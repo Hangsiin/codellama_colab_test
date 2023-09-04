@@ -1,4 +1,4 @@
-# Simple Version of testing code llama inference in colab environment.
+# Simple Version of testing Meta Code Llama inference in colab environment.
 
 The only difference between original repo (https://github.com/facebookresearch/codellama) is
 modifying example_completion.py -> example_completion_colab.py
