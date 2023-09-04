@@ -15,4 +15,4 @@ Requirements
 - Google colab pro plan for High system RAM.
 (If you do hyperparameter tuning, you might be able to do it in the free version, but I'm not sure.)
 - at least 12.5GB of free space on your Google Drive. (7b models = 12.5 GB)
-- 7b models can be run with T4 GPU (Free).
+- 7b models can be run with a T4 GPU (Free).
