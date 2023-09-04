@@ -10,3 +10,8 @@ https://colab.research.google.com/drive/1X0AcfX0m2o2kaN9x8_DtiEUoa9f23w_D?usp=sh
 
 This is my implementation on colab notebook. 
 (instructions are written in Korean. But almost same as original repo.)
+
+Requirements
+- Google colab pro plan for High system RAM.
+- at least 12.5GB of free space on your Google Drive. (7b models = 12.5 GB)
+- 7b models can be run with T4 GPU (Free).
